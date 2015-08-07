@@ -2048,7 +2048,7 @@ SKILL_20150317_002047	Wire Rope
 SKILL_20150317_002048	Centrifugal Force
 SKILL_20150317_002049	Tricks
 SKILL_20150317_002050	Shiver
-SKILL_20150317_002051	[Swoosh Buckling] critical occurrence of skill will increase. {nl} (Increases by 1% per level.)
+SKILL_20150317_002051	[Swash Buckling] critical chance of skill will increase. {nl} (Increases by 1% per level.)
 SKILL_20150317_002052	Thrust: Knockback Distance
 SKILL_20150317_002053	Pushing Force of [Thrust] increases by 50% per attribute level.
 SKILL_20150317_002054	Thrust: Continuous Attack
@@ -2062,7 +2062,7 @@ SKILL_20150317_002061	Monsters attacked with [Bash] are knocked down.
 SKILL_20150317_002062	Concentrate: Stun
 SKILL_20150317_002063	While the [Astral Projection] is enabled, enemy falls under [Stun] at 2% per attribute level when attacked.
 SKILL_20150317_002064	Restrain: Duration
-SKILL_20150317_002065	Duration of [Retrain] will increase by 5 seconds per level
+SKILL_20150317_002065	Duration of [Restrain] will increase by 5 seconds per level
 SKILL_20150317_002066	Thrust: Chance of Critical
 SKILL_20150317_002067	Critical probability of [Thrust] is increased by 10% per attribute level.
 SKILL_20150317_002068	Swoosh Buckling: Max. HP
